@@ -1,3 +1,4 @@
+<img width="32" height="32" alt="player1" src="https://github.com/user-attachments/assets/28a55b4d-b22b-481d-8e1e-922918ad0807" />
 # 🚀 슈팅 게임
 
 ## 1. 프로젝트 개요
