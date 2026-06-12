@@ -1,4 +1,3 @@
-<img width="32" height="32" alt="player1" src="https://github.com/user-attachments/assets/28a55b4d-b22b-481d-8e1e-922918ad0807" />
 # 🚀 슈팅 게임
 
 ## 1. 프로젝트 개요
@@ -28,7 +27,7 @@ clientSocket = new Socket("서버의_IP_주소", 8000);
 - **게임 목표 :** 1P(서버), 2P(클라이언트)가 협동하여 높은 점수를 획득.
 - **player1** (Server에서 조작, 윗줄 피통 사용)
     
-    !player1.png
+ <img width="32" height="32" alt="player1" src="https://github.com/user-attachments/assets/28a55b4d-b22b-481d-8e1e-922918ad0807" />
     
 - **player2** (Client에서 조작, 아랫줄 피통 사용)
     
