@@ -62,16 +62,18 @@ clientSocket = new Socket("서버의_IP_주소", 8000);
 
 - **메인화면**
     
-    !image.png
-    
+    <img width="2224" height="1424" alt="image" src="https://github.com/user-attachments/assets/f7daea22-b767-42d8-bfcd-18acc02b05e8" />
+
 
 - **Server에서 Client 접속 대기 화면**
 
-!스크린샷 2026-05-04 오후 2.54.37.png
+<img width="1809" height="1089" alt="image" src="https://github.com/user-attachments/assets/5fc5518d-d760-49b3-9675-6a6aeaf66574" />
+
 
 - **Client에서 Server가 안열렸을 때 보는 화면**
 
-!image.png
+<img width="1809" height="1089" alt="image" src="https://github.com/user-attachments/assets/da8d71ba-3e31-4289-b24b-e46775d283d3" />
+
 
 - 게임 진행 화면
     
